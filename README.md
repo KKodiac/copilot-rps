@@ -1,6 +1,13 @@
 # GitHub Copilot Workshop
 
 > Not a single line of code was written by hand (Except for this line of sentence)
+> Copilot was able to create a simple rock paper scissors web page running on Flask with some HTML for user interaction.
+> It was also able to run CLI commands for setting up docker environment that ran the backend Flask application along with MongoDB
+> All I did was chat and press "enter". 🫥
+
+
+https://github.com/user-attachments/assets/92dbc998-dc5e-45b9-81a2-8154ba545bf0
+
 
 ## Build a Rock, Paper, Scissors game from scratch with GitHub Copilot
 
@@ -11,6 +18,7 @@ In this fun workshop, you will learn how to use GitHub Copilot to build a simple
 Estimated time to complete: `10 to 60 minutes`
 
 Participants will be guided to install the GitHub Copilot VS Code extension, follow a CodeTour to learn how to interact with GitHub Copilot, and then use GitHub Copilot to build a Rock, Paper, Scissors game from scratch. 
+
 
 Depending on the time available, participants will be able to complete the game or just get started, from a simple version all the way to introducing additional logic to make the game more interesting complete, with unit tests and REST API endpoints.
 
