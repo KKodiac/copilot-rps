@@ -1,5 +1,7 @@
 # GitHub Copilot Workshop
 
+> Not a single line of code was written by hand
+
 ## Build a Rock, Paper, Scissors game from scratch with GitHub Copilot
 
 <img width="400" alt="Rock Paper Scissors image" src="./assets/Rock Paper Scissors image.png">
