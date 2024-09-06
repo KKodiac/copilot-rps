@@ -1,6 +1,6 @@
 # GitHub Copilot Workshop
 
-> Not a single line of code was written by hand
+> Not a single line of code was written by hand (Except for this line of sentence)
 
 ## Build a Rock, Paper, Scissors game from scratch with GitHub Copilot
 
